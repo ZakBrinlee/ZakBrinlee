@@ -1,11 +1,11 @@
 <h1 align="center">
     I'm Zak Brinlee! 
 </h1>
-<br />
 
 <div align="center">
   <em>Consultant | Senior Software Engineer | Frontend Developer</em>
 </div>
+<br />
 
 I am a senior software engineer with a passion for building high-quality software. I have experience in a variety of technologies and languages, but I specialize in frontend development. I am always looking for new opportunities to learn and grow as a developer. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
 
@@ -32,7 +32,7 @@ I am a senior software engineer with a passion for building high-quality softwar
 <h2 align="center"> 🛠️ Technologies | Languages | Tools 🛠️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,aws,playwright" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,aws" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,nextjs,vite,flutter,jest" /><br>
 </div>
 <br/>
