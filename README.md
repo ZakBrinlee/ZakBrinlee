@@ -44,6 +44,8 @@ I am a senior software engineer with a passion for building high-quality softwar
   <img alt="Top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakbrinlee&layout=compact&hide_progress=true" />
   <img alt="Top GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zakbrinlee&hide=contribs,stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github" />
   <!-- <img width=390 src="https://streak-stats.demolab.com/?user=zakbrinlee&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-  <br/><br/><br/>
+  <br/>
+  <span style="font-size:10px">Unfortunately, the incorrect email was attached to my local GitHub config and the majority of my contributions were made under that email. I am working on getting this resolved.</span>
+  <br/><br/>
 </div>
 
