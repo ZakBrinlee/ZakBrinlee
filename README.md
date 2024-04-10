@@ -19,7 +19,7 @@ I am a senior software engineer with experience in various technologies and lang
 - ⚡ Fun fact: I am actively learning Cantonese and would enjoy practicing with others, especially with code!
 
 <div align="center"> 
-  <a href="mailto:zak.brinlee@gmail.com">
+  <a href="mailto:zbrinlee@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/zak-brinlee/" target="_blank">
