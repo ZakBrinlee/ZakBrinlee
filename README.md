@@ -43,12 +43,12 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 
 <h4 align="center">2024 Goals </h3>
 <br/>
-<div align="center" style="display: flex; flex-direction: row; justify-content: center;">
-    <div style="display: flex; flex-direction: column; align-items: center;">
+<div align="center" style="width: 100%; display: flex; justify-content: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; width: min;">
       <p>Q2 Goal!</p>
       <img style="width: fit-content;" title="AWS Certified Solutions Architect Associate" alt="AWS Certified Solutions Architect Associate - Q2 2024 Goal" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-solutions-architect-associate.png&w=96&q=75" />
     </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center; width: min;">
       <p>Q4 Goal!</p>
       <img style="width: 100px;" title="AWS Certified Solutions Architect Associate" alt="AWS Certified Solutions Architect Associate - Q2 2024 Goal" src="/assets/AWS-Certified-Developer-Associate_badge.png" />
     </div>
