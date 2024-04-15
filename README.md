@@ -26,7 +26,7 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
   <a href="https://www.linkedin.com/in/zak-brinlee/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-  <a href="mailto:zbrinlee@gmail.com" target="_blank">
+  <a href="mailto:zak.brinlee@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-E94635?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
 </div>
