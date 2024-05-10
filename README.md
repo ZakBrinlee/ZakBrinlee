@@ -40,13 +40,6 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
     <img title="AWS Certified Cloud Practioner" alt="AWS Certified Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-cloud-practitioner.png&w=96&q=75" />
     <img title="AWS Cloud Quest - Cloud Practioner" alt="AWS Cloud Quest - Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-cloud-quest-cloud-practitioner.png&w=96&q=75" />
 </div>
-
-<h4 align="center">2024 Goals </h3>
-<br/>
-<div align="center">
-      <img style="width: 100px;" title="AWS Certified Solutions Architect Associate" alt="AWS Certified Solutions Architect Associate - Q2 2024 Goal" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-solutions-architect-associate.png&w=96&q=75" />
-      <img style="width: 100px;" title="AWS Certified Solutions Architect Associate" alt="AWS Certified Solutions Architect Associate - Q2 2024 Goal" src="/assets/AWS-Certified-Developer-Associate_badge.png" />
-</div>
 <br/>
 
 ---
