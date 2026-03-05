@@ -55,8 +55,8 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
   <h2>GitHub Stats</h2>
   <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zakbrinlee/zakbrinlee/output/github-contribution-grid-snake.svg" /> -->
   <img style="margin: auto;" width=390 src="https://streak-stats.demolab.com/?user=zakbrinlee&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img alt="Top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakbrinlee&layout=compact&hide_progress=true" style="width: fit-content; margin: auto;" />
-  <img style="width: fit-content; margin: auto;" alt="Top GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zakbrinlee&hide=contribs,stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_title=true" />
+  <!-- <img alt="Top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakbrinlee&layout=compact&hide_progress=true" style="width: fit-content; margin: auto;" />
+  <img style="width: fit-content; margin: auto;" alt="Top GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zakbrinlee&hide=contribs,stars&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=github&hide_title=true" /> -->
   <br/>
   <br/>
 </div>
