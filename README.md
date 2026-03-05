@@ -1,21 +1,17 @@
-<h1 align="center">
-    I'm Zak Brinlee! 
-</h1>
-
 <div align="center">
-  <em>Consultant | Senior Software Engineer | Adjunct Instructor</em>
+  <em>Consultant | Full Stack Developer (Frontend Specialty) | Adjunct Instructor</em>
 </div>
 <br />
 
-I am a senior software engineer with experience in various technologies and languages, specializing in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
+I am a full stack developer with experience in various technologies and languages, with a specialty in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
 
-I am always looking for new opportunities to learn and grow, so if you have a project I would be a good fit for, please reach out! I have been a college Tutor and Teaching Assistant for three years and have enjoyed helping others learn and grow in software development.
+I am always looking for new opportunities to learn and grow, so if you have a project I would be a good fit for, please reach out! I’m also an adjunct college instructor teaching software development at Bellevue College.
 
 - 👨🏻‍🎓 Studied Application Development at North Seattle College
 - 📖 Studied Software Development at Seattle Central College
-- 📚 Volunteer TA/Tutor at Seattle Central College
+- 🧑‍🏫 Adjunct college instructor teaching Software Development at Bellevue College
 - 🔭 I’m currently working on the planning stage for a web application that utilizes AWS to convert text to a speech in a different language. (dynamic language dictionary)
-- 🌱 I’m currently learning AWS Cloud Services to take the AWS Developer Associate exam
+- 🌱 I’m currently working toward my AWS Certified Cloud Practitioner certificate this year
 - 🧑‍🤝‍🧑 I’m looking to collaborate on anything PWA or mobile that helps solve a daily problem.
 - ⚡ Fun fact: I am actively learning Cantonese and would enjoy practicing with others, especially with code!
 
@@ -36,8 +32,8 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 <div align="center">
     <img title="GitHub Foundations" alt="GitHub Foundations" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Fgithub-foundations.png&w=96&q=75" />
     <img title="GitHub Actions" alt="GitHub Actions" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Fgithub-actions.png&w=96&q=75" />
-    <img title="AWS Certified Cloud Practioner" alt="AWS Certified Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-cloud-practitioner.png&w=96&q=75" />
-    <img title="AWS Cloud Quest - Cloud Practioner" alt="AWS Cloud Quest - Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-cloud-quest-cloud-practitioner.png&w=96&q=75" />
+  <img title="AWS Certified Cloud Practitioner" alt="AWS Certified Cloud Practitioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-cloud-practitioner.png&w=96&q=75" />
+  <img title="AWS Cloud Quest - Cloud Practitioner" alt="AWS Cloud Quest - Cloud Practitioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-cloud-quest-cloud-practitioner.png&w=96&q=75" />
 </div>
 <br/>
 
