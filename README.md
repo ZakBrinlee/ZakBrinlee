@@ -3,20 +3,20 @@
 </h1>
 
 <div align="center">
-  <em>Consultant | Senior Software Engineer | Frontend Developer</em>
+  <em>Consultant | Senior Software Engineer | Adjunct Instructor</em>
 </div>
 <br />
 
-I am a senior software engineer with experience in various technologies and languages, specializing in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development. 
+I am a senior software engineer with experience in various technologies and languages, specializing in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
 
-I am always looking for new opportunities to learn and grow, so if you have a project I would be a good fit for, please reach out! I have been a college Tutor and Teaching Assistant for three years and have enjoyed helping others learn and grow in software development. Actively seeking part-time college teaching opportunities in Seattle and full-time consultant, software engineering, or solution architect roles!
+I am always looking for new opportunities to learn and grow, so if you have a project I would be a good fit for, please reach out! I have been a college Tutor and Teaching Assistant for three years and have enjoyed helping others learn and grow in software development.
 
 - 👨🏻‍🎓 Studied Application Development at North Seattle College
 - 📖 Studied Software Development at Seattle Central College
 - 📚 Volunteer TA/Tutor at Seattle Central College
 - 🔭 I’m currently working on the planning stage for a web application that utilizes AWS to convert text to a speech in a different language. (dynamic language dictionary)
-- 🌱 I’m currently learning AWS Cloud Services to take the AWS Solution Architect Associate exam
-- 🧑‍🤝‍🧑 I’m looking to collaborate on anything PWA or mobile that helps solve a daily problem. 
+- 🌱 I’m currently learning AWS Cloud Services to take the AWS Developer Associate exam
+- 🧑‍🤝‍🧑 I’m looking to collaborate on anything PWA or mobile that helps solve a daily problem.
 - ⚡ Fun fact: I am actively learning Cantonese and would enjoy practicing with others, especially with code!
 
 <div align="center"> 
@@ -36,7 +36,6 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 <div align="center">
     <img title="GitHub Foundations" alt="GitHub Foundations" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Fgithub-foundations.png&w=96&q=75" />
     <img title="GitHub Actions" alt="GitHub Actions" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Fgithub-actions.png&w=96&q=75" />
-    <img title="Certified Scrum Developer" alt="Certified Scrum Developer" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Fscrum-developer.png&w=96&q=75" />
     <img title="AWS Certified Cloud Practioner" alt="AWS Certified Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-certified-cloud-practitioner.png&w=96&q=75" />
     <img title="AWS Cloud Quest - Cloud Practioner" alt="AWS Cloud Quest - Cloud Practioner" src="https://www.zakbrinlee.com/_next/image?url=%2Fcerts%2Faws-cloud-quest-cloud-practitioner.png&w=96&q=75" />
 </div>
@@ -47,8 +46,12 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 <h2 align="center"> 🛠️ Technologies | Languages | Tools 🛠️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,aws" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,firebase,java,nextjs,vite,flutter,jest" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,nodejs,python,java" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,firebase,aws,azure" />
+    <img src="https://skillicons.dev/icons?i=vite,vitest,jest,selenium,regex" />
+    <img src="https://skillicons.dev/icons?i=flutter,svelte,md,docker,postgres" />
 </div>
 <br/>
 
@@ -61,4 +64,3 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
   <br/>
   <br/>
 </div>
-
