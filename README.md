@@ -42,12 +42,12 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 <h2 align="center"> 🛠️ Technologies | Languages | Tools 🛠️ </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind" />
-    <img src="https://skillicons.dev/icons?i=html,css,figma,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=git,githubactions,nodejs,python,java" />
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,firebase,aws,azure" />
-    <img src="https://skillicons.dev/icons?i=vite,vitest,jest,selenium,regex" />
-    <img src="https://skillicons.dev/icons?i=flutter,svelte,md,docker,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,cs,css,dotnet" />
+  <img src="https://skillicons.dev/icons?i=figma,firebase,flutter,git,github" />
+  <img src="https://skillicons.dev/icons?i=githubactions,html,javascript,java,jest" />
+  <img src="https://skillicons.dev/icons?i=md,nextjs,nodejs,python,react" />
+  <img src="https://skillicons.dev/icons?i=regex,selenium,svelte,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=vite,vitest,vscode" />
 </div>
 <br/>
 
