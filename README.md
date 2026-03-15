@@ -3,7 +3,7 @@
 </div>
 <br />
 
-I am a full stack developer with experience in various technologies and languages, with a specialty in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
+I am a full stack developer with a specialty in front-end development. I am a passionate engineer working to be better than the day before through consistent learning and growth of myself and my skills. I enjoy the challenge of solving complex problems and the collaboration that goes into software development.
 
 I am always looking for new opportunities to learn and grow, so if you have a project I would be a good fit for, please reach out! I’m also an adjunct college instructor teaching software development at Bellevue College.
 
@@ -11,7 +11,7 @@ I am always looking for new opportunities to learn and grow, so if you have a pr
 - 📖 Studied Software Development at Seattle Central College
 - 🧑‍🏫 Adjunct college instructor teaching Software Development at Bellevue College
 - 🔭 I’m currently working on the planning stage for a web application that utilizes AWS to convert text to a speech in a different language. (dynamic language dictionary)
-- 🌱 I’m currently working toward my AWS Certified Cloud Practitioner certificate this year
+- 🌱 I’m currently working toward my AWS Certified Cloud Practitioner certificate
 - 🧑‍🤝‍🧑 I’m looking to collaborate on anything PWA or mobile that helps solve a daily problem.
 - ⚡ Fun fact: I am actively learning Cantonese and would enjoy practicing with others, especially with code!
 
